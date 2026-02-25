@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/opcion_datos"
+        android:title="Datos personales" />
+    <item
+        android:id="@+id/opcion_precios"
+        android:title="Lista de precios" />
+</menu>
